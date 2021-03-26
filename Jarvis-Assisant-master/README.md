@@ -39,7 +39,3 @@ Add here: https://github.com/Dipeshpal/Jarvis_AI/discussions
 * Add proper notes, guides, **traceback**, steps and description if you want to suggest something or raise issue.
 * Check already exist issues first.
 
-## Contact me-
-* https://www.instagram.com/dipesh_pal17
-* https://www.youtube.com/dipeshpal17
-* dipeshpal17@gmail.com
